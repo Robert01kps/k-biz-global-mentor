@@ -1,0 +1,148 @@
+[
+  {
+    "id": "KB-1782052772456-130",
+    "submissionDate": "2026-06-21T14:39:32.456Z",
+    "selectedLanguage": "en",
+    "name": "John Smith",
+    "company": "",
+    "jobTitle": "",
+    "email": "john@test.com",
+    "phone": "",
+    "country": "United Kingdom",
+    "website": "",
+    "userLevel": "Protector",
+    "userType": "Individual",
+    "businessArea": [
+      "K-Food"
+    ],
+    "goal": [
+      "Resolve a dispute"
+    ],
+    "supportType": [
+      "Dispute, debt recovery or litigation support"
+    ],
+    "targetMarket": [
+      "United Kingdom"
+    ],
+    "currentStatus": "Facing difficulties / disputes",
+    "documentsAvailable": [
+      "Dispute summaries"
+    ],
+    "mainQuestion": "We are facing a dispute regarding a food shipment. Need legal representation.",
+    "urgency": "Launching within 3 months",
+    "consentStatus": true,
+    "status": "New",
+    "notes": "",
+    "routingTags": [
+      "legal-support",
+      "hallyu-public-cultural"
+    ],
+    "assignedOrganisation": "Korea Town Foundation",
+    "serviceRoute": "Hallyu Business Starter",
+    "regulatedClassification": "Regulated",
+    "interestClassification": "Public-Interest",
+    "conflictCheckRequired": true,
+    "kycRequired": true,
+    "referralDisclosureRequired": false
+  },
+  {
+    "id": "KB-1782052758996-826",
+    "submissionDate": "2026-06-21T14:39:18.996Z",
+    "selectedLanguage": "en",
+    "name": "Jane Doe",
+    "company": "",
+    "jobTitle": "",
+    "email": "jane@test.com",
+    "phone": "",
+    "country": "United Kingdom",
+    "website": "",
+    "userLevel": "Protector",
+    "userType": "SME",
+    "businessArea": [
+      "K-Food",
+      "Energy and infrastructure"
+    ],
+    "goal": [
+      "Resolve a dispute"
+    ],
+    "supportType": [
+      "Contract review or legal risk",
+      "Dispute, debt recovery or litigation support"
+    ],
+    "targetMarket": [
+      "United Kingdom",
+      "South Korea"
+    ],
+    "currentStatus": "Facing difficulties / disputes",
+    "documentsAvailable": [
+      "Draft contracts"
+    ],
+    "mainQuestion": "We are facing a dispute regarding a logistics contract between South Korea and the UK. Need urgent legal support.",
+    "urgency": "Immediate action required",
+    "consentStatus": true,
+    "status": "Reviewed",
+    "notes": "Verified conflict check status in database.",
+    "routingTags": [
+      "legal-support",
+      "hallyu-public-cultural",
+      "energy-defence-practical-support"
+    ],
+    "assignedOrganisation": "Castletown Law / KEPCO Service Ltd",
+    "serviceRoute": "Investment and Collaboration Readiness",
+    "regulatedClassification": "Regulated",
+    "interestClassification": "Commercial",
+    "conflictCheckRequired": true,
+    "kycRequired": true,
+    "referralDisclosureRequired": true
+  },
+  {
+    "id": "KB-1782051977479-131",
+    "submissionDate": "2026-06-21T14:26:17.480Z",
+    "selectedLanguage": "en",
+    "name": "Jane Doe",
+    "company": "",
+    "jobTitle": "",
+    "email": "jane@test.com",
+    "phone": "",
+    "country": "United Kingdom",
+    "website": "",
+    "userLevel": "Protector",
+    "userType": "SME",
+    "businessArea": [
+      "K-Food",
+      "Energy and infrastructure"
+    ],
+    "goal": [
+      "Resolve a dispute"
+    ],
+    "supportType": [
+      "Contract review or legal risk",
+      "Dispute, debt recovery or litigation support"
+    ],
+    "targetMarket": [
+      "United Kingdom",
+      "South Korea"
+    ],
+    "currentStatus": "Facing difficulties / disputes",
+    "documentsAvailable": [
+      "Draft contracts"
+    ],
+    "mainQuestion": "We are facing a dispute regarding a logistics contract between South Korea and the UK. Need urgent legal support.",
+    "urgency": "Immediate action required",
+    "consentStatus": false,
+    "status": "New",
+    "notes": "",
+    "routingTags": [
+      "legal-support",
+      "hallyu-public-cultural",
+      "energy-defence-practical-support"
+    ],
+    "assignedOrganisation": "Castletown Law / KEPCO Service Ltd",
+    "serviceRoute": "Investment and Collaboration Readiness",
+    "regulatedClassification": "Regulated",
+    "interestClassification": "Commercial",
+    "conflictCheckRequired": true,
+    "kycRequired": true,
+    "referralDisclosureRequired": true
+  }
+]
