@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #020617; /* Slate 950 */
+  --background: #080d24; /* Rich prestigious dark blue */
   --foreground: #f8fafc; /* Slate 50 */
 }
 
@@ -10,9 +10,15 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-navy: #101f42;
+  --color-navy-dark: #060b18;
+  --color-cobalt: #1d4ed8;
+  --color-gold: #e2b83b;
+  --color-gold-light: #f7e6a7;
 }
 
 body {
-  background: var(--background);
+  background: radial-gradient(circle at 50% 0%, #172554 0%, #080d24 80%);
   color: var(--foreground);
+  min-height: 100vh;
 }
